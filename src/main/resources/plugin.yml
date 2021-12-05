@@ -1,0 +1,8 @@
+name: OriApi
+version: '${version}'
+main: uk.co.breadhub.oriapi.Main
+api-version: 1.16
+prefix: sat
+authors: [ bread ]
+description: ded
+website: https://ci.breadhub.co.uk

@@ -1,0 +1,8 @@
+plugin:
+  modules:
+    mysql-pooling-api:
+      enabled: false
+      host: ""
+      username: ""
+      password: ""
+      database: ""
